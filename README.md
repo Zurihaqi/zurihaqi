@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Zul Fahri Baihaqi 👋
 
-<!--
-**Zurihaqi/zurihaqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a full-stack developer with a strong interest in building modern web and mobile applications. I love working on developer experience (DX), scalable architecture, and clean design systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Based in Indonesia
+- 🎓 Background in Informatics
+- 🛠️ Currently exploring Golang and Flutter
+
+---
+
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/zurihaqi">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zurihaqi&theme=2077" alt="GitHub Stats" height="150"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zurihaqi">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zurihaqi&theme=2077" alt="Top Languages" height="150"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zurihaqi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zurihaqi&theme=highcontrast" alt="GitHub Streak" height="150"/>
+  </a>
+</p>
+
+---
+
+
+### 📫 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/zurihaqi)
+- 💬 Feel free to check out my repositories and drop a ⭐ if you like something!
+
+---
