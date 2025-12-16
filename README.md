@@ -23,7 +23,7 @@ I'm a full-stack developer with a strong interest in building modern web and mob
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/zurihaqi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zurihaqi&theme=highcontrast" alt="GitHub Streak" height="150"/>
+    <img src="https://streak-stats.demolab.com?user=zurihaqi&theme=tokyonight&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="150/>
   </a>
 </p>
 
