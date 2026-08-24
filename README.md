@@ -32,10 +32,6 @@ I'm a full-stack developer with a strong interest in building modern web and mob
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zurihaqi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zurihaqi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
-</p>
-
 ---
 
 ### 📫 Let's Connect
